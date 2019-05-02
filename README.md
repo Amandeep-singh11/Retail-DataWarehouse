@@ -14,5 +14,5 @@ This Repository contains
 >3. Table row counts - Row counts of each target table in Datawarehouse
 
 ## INFO:
->1. Tool Used : Talend
+>1. Tool Used : Talend, MSSQL, Oracle, MySQL, Postgres
 >2. Process Followed : Data Extraction, Data transformation & Data loading
